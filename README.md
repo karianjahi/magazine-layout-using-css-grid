@@ -30,7 +30,7 @@ A responsive magazine cover layout built with **HTML5** and **CSS3**, showcasing
 
 1. **Clone the repository**  
    ```
-   git clone https://github.com/your-username/magazine-layout-using-css-grid.git
+   git clone https://github.com/karianjahi/magazine-layout-using-css-grid.git
    ```
 
 2. Open index.html in your browser - No build tools or dependencies are required.
